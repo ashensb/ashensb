@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashen Sandeepa Bulathsinghala</h1>
 <h3 align="center">A passionate full stack developer from Srilanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashensb&label=Profile%20views&color=0e75b6&style=flat" alt="ashensb" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ashensb&label=Profile%20views&color=0e75b6&style=flat" alt="ashensb" /> </p>
 
 - 🔭 I’m currently working on **MERN Project with deployment**
 
